@@ -9,4 +9,5 @@
 8.D1-member function until -1
 9.D1-perfect or not 
 10.D1-random numbers
+11.D1-reverse a string
 THE ABOVE LISTED PROGRAMS I HAVE DONE THIS PROGRAM IN DEVC++
