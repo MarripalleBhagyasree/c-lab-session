@@ -20,5 +20,7 @@
 19.D2-swapping by call value
 20.D2-voting
 21.D2-reversing a number
+22.D3-pigging bank
+23.D3-student class
 
 THE ABOVE LISTED PROGRAMS I HAVE DONE THIS PROGRAMS IN DEVC++
