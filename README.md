@@ -22,5 +22,12 @@
 21.D2-reversing a number
 22.D3-pigging bank
 23.D3-student class
+24.D3-area of square and rectangle
+25.D3-class rectangle
+26.D3-class to print int and char
+27.D3-degree class
+28.D3-printnum
+29.D3-printnumber datatype
+30.D3-student with 3 datamembers
 
 THE ABOVE LISTED PROGRAMS I HAVE DONE THIS PROGRAMS IN DEVC++
