@@ -31,4 +31,6 @@
 30.D3-student with 3 datamembers
 31.D4-area of circle using pointers
 32.D4-sum of array using pointers
+33.D4-fruit class
+34.D4-class master
 THE ABOVE LISTED PROGRAMS I HAVE DONE THIS PROGRAMS IN DEVC++
