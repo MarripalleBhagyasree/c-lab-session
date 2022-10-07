@@ -29,5 +29,6 @@
 28.D3-printnum
 29.D3-printnumber datatype
 30.D3-student with 3 datamembers
-
+31.D4-area of circle using pointers
+32.D4-sum of array using pointers
 THE ABOVE LISTED PROGRAMS I HAVE DONE THIS PROGRAMS IN DEVC++
